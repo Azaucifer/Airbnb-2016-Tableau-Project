@@ -17,3 +17,6 @@ In this Tableau project, I embarked on an immersive exploration of the Airbnb 20
 ## Conclusion
 
 This Tableau project serves as a testament to my ability to harness data for informed decision-making. It underscores my proficiency in data analysis and visualization, demonstrated through effective utilization of Excel and Tableau. The project's significance lies in its contribution to a globally recognized service like Airbnb, offering insights that drive innovation and expansion.
+
+## Data Source
+https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
